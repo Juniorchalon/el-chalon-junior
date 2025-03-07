@@ -1,2 +1,2 @@
-# el-chalon-junior
+# Junior
 Oli
